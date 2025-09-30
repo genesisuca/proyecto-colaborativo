@@ -1,0 +1,28 @@
+Repositorio
+
+Un repositorio es el espacio donde se almacenan todos los archivos de un proyecto y su historial de cambios. Puede estar en tu computadora (local) o en una plataforma como GitHub (remoto).
+
+Commit
+
+Un commit es como una “foto” del proyecto en un momento específico. Guarda los cambios realizados junto con un mensaje descriptivo que explica qué se modificó.
+
+Rama (Branch)
+
+Una rama es una línea de desarrollo independiente dentro del repositorio. Permite trabajar en nuevas funciones o correcciones sin afectar la rama principal (main o master).
+
+Merge
+
+El merge es el proceso de combinar los cambios de una rama con otra. Por ejemplo, cuando terminas de trabajar en la rama Aarón, puedes hacer merge de esa rama con main para integrar los cambios al proyecto principal.
+
+Remote
+
+El remote es la referencia al repositorio remoto, normalmente en GitHub. Sirve para sincronizar los cambios entre tu repositorio local y el que está en línea. El más común se llama origin.
+
+Push
+
+El comando push envía los cambios (commits) desde el repositorio local al remoto. 
+
+Pull
+
+El comando pull descarga los cambios del repositorio remoto y los integra en tu repositorio local. Es útil cuando varias personas trabajan en el mismo proyecto. 
+
